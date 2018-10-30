@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundProject_Maze", "Assembly-CSharp-firstpass.csproj", "{2618E867-EFCE-179C-732B-AB0104A44EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundProject_Maze", "Assembly-CSharp.csproj", "{B7F2E06C-5C3F-84E4-F1D4-1B6160530A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundProject_Maze", "Assembly-CSharp-Editor-firstpass.csproj", "{6D1A41E5-F70C-DCEA-9F7F-926A04A3BCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2618E867-EFCE-179C-732B-AB0104A44EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2618E867-EFCE-179C-732B-AB0104A44EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2618E867-EFCE-179C-732B-AB0104A44EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2618E867-EFCE-179C-732B-AB0104A44EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F2E06C-5C3F-84E4-F1D4-1B6160530A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F2E06C-5C3F-84E4-F1D4-1B6160530A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F2E06C-5C3F-84E4-F1D4-1B6160530A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F2E06C-5C3F-84E4-F1D4-1B6160530A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1A41E5-F70C-DCEA-9F7F-926A04A3BCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1A41E5-F70C-DCEA-9F7F-926A04A3BCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1A41E5-F70C-DCEA-9F7F-926A04A3BCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1A41E5-F70C-DCEA-9F7F-926A04A3BCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
